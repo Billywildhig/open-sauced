@@ -54,7 +54,7 @@
     "react-hot-keys": "^2.7.2",
     "react-icons": "^4.3.1",
     "react-loading-skeleton": "^3.1.0",
-    "react-router": "^5.2.1",
+    "react-router": "^6.24.0",
     "react-router-dom": "^5.2.1",
     "styled-components": "^5.3.5",
     "svgmoji": "^3.2.0",
